@@ -1,5 +1,7 @@
 # modal-project
 
+View App: https://mystifying-leavitt-2dc596.netlify.app/
+
 ## Project setup
 ```
 npm install
